@@ -20,6 +20,6 @@ package penktest.com;
 public class hello {
 public static void main(String[] args) {
 	System.out.println("hello!");
-	System.out.println("hello 02");
+	System.out.println("hello 01 02");
 }
 }
